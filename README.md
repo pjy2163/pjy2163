@@ -6,7 +6,7 @@ Passionate about backend development, striving to grow every day.
 
 <br>
 
-### 💬 About Me
+### 💬 📚
 
 <a href="https://velog.io/@pjy2163"><img alt="Velog" src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
 
