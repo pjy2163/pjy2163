@@ -1,6 +1,9 @@
+
 <div align="center">
   
-## Hi Welcome👋, i'm JI YOUNG PARK 🌱 
+![header](https://capsule-render.vercel.app/api?type=blur&color=random&height=200&text=Hi%20Welcome!&fontColor=FFFFCC&animation=fadeIn&fontSize=30&fontAlignY=50)
+
+## i'm JI YOUNG PARK 🌱 
 
 Passionate about backend development, striving to grow every day.
 
@@ -25,7 +28,8 @@ Passionate about backend development, striving to grow every day.
 ### 💪🏼 Tools
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-
+<br><br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjy2163&layout=compact)
 </div>
 <!--
 **pjy2163/pjy2163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
